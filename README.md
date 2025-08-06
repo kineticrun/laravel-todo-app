@@ -12,7 +12,11 @@ Laravel Todo alkalmazás alap CRUD funkciókkal, újrahasználható Blade kompon
     `php artisan migrate`
 6. Futtasd a seedereket a teszt adatok feltöltéséhez
     `php artisan db:seed`
-7. Indítsd el a szervert:
+7. Telepítsd a nodejs csomagokat
+    `npm install`
+8. Indítsd el a Vite fejlesztői szervert
+    `npm run dev`
+9. Indítsd el a szervert:
     `php artisan serve`
 
 ## Funkciók
