@@ -31,7 +31,8 @@ Laravel Todo alkalmazás alap CRUD funkciókkal, újrahasználható Blade kompon
 ## Használt technológiák
 - PHP
 - Laravel
-- Blade templating
+- Blade templating és komponensek
+- Tailwind CSS
 
 ## Képek
 
