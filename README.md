@@ -36,7 +36,7 @@ Laravel Todo alkalmazás alap CRUD funkciókkal, újrahasználható Blade kompon
 
 ## Képek
 
-*Feladatok három oszlopa rendezve fontosság szerint*
+*Feladatok három oszlopba rendezve fontosság szerint*
 ![Todo lista](screenshots/tasklist.png)
 
 *Új feladat hozzáadása (megegyezik a szerkesztéssel)*
